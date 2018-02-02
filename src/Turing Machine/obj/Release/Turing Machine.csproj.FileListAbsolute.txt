@@ -1,0 +1,31 @@
+C:\Users\Marat\Documents\Visual Studio 2015\Projects\Turing Machine Evgen\Turing Machine\bin\Release\Turing Machine.exe.config
+C:\Users\Marat\Documents\Visual Studio 2015\Projects\Turing Machine Evgen\Turing Machine\bin\Release\Turing Machine.exe
+C:\Users\Marat\Documents\Visual Studio 2015\Projects\Turing Machine Evgen\Turing Machine\bin\Release\Turing Machine.pdb
+C:\Users\Marat\Documents\Visual Studio 2015\Projects\Turing Machine Evgen\Turing Machine\obj\Release\Turing_Machine.GUI.Info.resources
+C:\Users\Marat\Documents\Visual Studio 2015\Projects\Turing Machine Evgen\Turing Machine\obj\Release\Turing_Machine.mainWindow.resources
+C:\Users\Marat\Documents\Visual Studio 2015\Projects\Turing Machine Evgen\Turing Machine\obj\Release\Turing_Machine.Properties.Resources.resources
+C:\Users\Marat\Documents\Visual Studio 2015\Projects\Turing Machine Evgen\Turing Machine\obj\Release\Turing Machine.csproj.GenerateResource.Cache
+C:\Users\Marat\Documents\Visual Studio 2015\Projects\Turing Machine Evgen\Turing Machine\obj\Release\Turing Machine.exe
+C:\Users\Marat\Documents\Visual Studio 2015\Projects\Turing Machine Evgen\Turing Machine\obj\Release\Turing Machine.pdb
+E:\Turing Machine Evgen\Turing Machine\bin\Release\Turing Machine.exe.config
+E:\Turing Machine Evgen\Turing Machine\bin\Release\Turing Machine.exe
+E:\Turing Machine Evgen\Turing Machine\bin\Release\Turing Machine.pdb
+E:\Turing Machine Evgen\Turing Machine\obj\Release\Turing_Machine.GUI.Info.resources
+E:\Turing Machine Evgen\Turing Machine\obj\Release\Turing_Machine.mainWindow.resources
+E:\Turing Machine Evgen\Turing Machine\obj\Release\Turing_Machine.Properties.Resources.resources
+E:\Turing Machine Evgen\Turing Machine\obj\Release\Turing Machine.csproj.GenerateResource.Cache
+E:\Turing Machine Evgen\Turing Machine\obj\Release\Turing Machine.csproj.CoreCompileInputs.cache
+E:\Turing Machine Evgen\Turing Machine\obj\Release\Turing Machine.exe
+E:\Turing Machine Evgen\Turing Machine\obj\Release\Turing Machine.pdb
+E:\Turing Machine Evgen\Turing Machine\obj\Release\Turing Machine.csprojResolveAssemblyReference.cache
+E:\Evgen\Сессия\Курсовая работа МЛиТА\Turing Machine Evgen\Turing Machine\bin\Release\Turing Machine.exe.config
+E:\Evgen\Сессия\Курсовая работа МЛиТА\Turing Machine Evgen\Turing Machine\bin\Release\Turing Machine.exe
+E:\Evgen\Сессия\Курсовая работа МЛиТА\Turing Machine Evgen\Turing Machine\bin\Release\Turing Machine.pdb
+E:\Evgen\Сессия\Курсовая работа МЛиТА\Turing Machine Evgen\Turing Machine\obj\Release\Turing Machine.csprojResolveAssemblyReference.cache
+E:\Evgen\Сессия\Курсовая работа МЛиТА\Turing Machine Evgen\Turing Machine\obj\Release\Turing_Machine.GUI.Info.resources
+E:\Evgen\Сессия\Курсовая работа МЛиТА\Turing Machine Evgen\Turing Machine\obj\Release\Turing_Machine.mainWindow.resources
+E:\Evgen\Сессия\Курсовая работа МЛиТА\Turing Machine Evgen\Turing Machine\obj\Release\Turing_Machine.Properties.Resources.resources
+E:\Evgen\Сессия\Курсовая работа МЛиТА\Turing Machine Evgen\Turing Machine\obj\Release\Turing Machine.csproj.GenerateResource.Cache
+E:\Evgen\Сессия\Курсовая работа МЛиТА\Turing Machine Evgen\Turing Machine\obj\Release\Turing Machine.csproj.CoreCompileInputs.cache
+E:\Evgen\Сессия\Курсовая работа МЛиТА\Turing Machine Evgen\Turing Machine\obj\Release\Turing Machine.exe
+E:\Evgen\Сессия\Курсовая работа МЛиТА\Turing Machine Evgen\Turing Machine\obj\Release\Turing Machine.pdb
