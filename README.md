@@ -1,5 +1,4 @@
 # simple-turing-machine
-Simple Turing machine simulator, course-project
 
 Simple. Convenient. Real.
 
