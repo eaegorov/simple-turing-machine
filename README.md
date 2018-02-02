@@ -2,7 +2,7 @@
 
 Simple. Convenient. Real.
 
-My next application. It is Turing machine simulator.
+My next Visual Studio application. It's Turing machine simulator.
 
 How to use:
 
